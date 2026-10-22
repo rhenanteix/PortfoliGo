@@ -1,0 +1,4 @@
+Codigo,Cliente,Documento,Vendedor,Nota,VlTitulo,DtVenc,Observacao,Filial
+001,Empresa Alpha,11.444.777/0001-61,Joao,ABC-001,"15000,00",10/10/2026,Cliente recorrente,SP
+002,Empresa Beta,45.723.174/0001-10,Maria,ABC-002,"28000,00",25/10/2026,Pedido novo,RJ
+003,Empresa Gamma,11.444.777/0001-61,Carlos,ABC-003,"9500,00",15/12/2026,,SP
